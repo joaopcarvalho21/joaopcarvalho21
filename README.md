@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou João Pedro! 👋</h1>
 
 <p align="center">
-  <strong>Java Developer | Backend Enthusiast</strong>
+  <strong>Java Developer | Back-end</strong>
 </p>
 
 <p align="center">
