@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/SQL-%2300f?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-%2300BFFF.svg?style=for-the-badge&logo=rest-api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
@@ -30,36 +31,27 @@
 
 ## 📚 Sobre Mim
 
-- 🌱 Atualmente, estou focado em aprimorar minhas habilidades em **Java** e **Spring Boot**.
-- 💼 Sempre em busca de novos desafios e projetos interessantes.
-- 🎯 Meu objetivo é me especializar em desenvolvimento backend e arquiteturas robustas.
-
----
-
-## 💻 Projetos Recentes
-
-### [📦 OrderManagementSystem](https://github.com/seuusuario/OrderManagementSystem)
-Sistema de gerenciamento de pedidos com clientes, produtos, e cálculo de renda mensal em Java.
-
-### [🌱 SpringEcommerce](https://github.com/seuusuario/SpringEcommerce)
-Projeto de um sistema de e-commerce usando Spring Boot, JPA, e autenticação com JWT.
+- 🌱 Atualmente, estou focado em aprimorar minhas habilidades em **Java**, **Spring Boot**, **Banco de Dados** e **Computação em Nuvem**.
+- 💼 Sempre em busca de novos desafios e projetos interessantes, que possam de alguma forma facilitar a vida de alguém.
+- 🎯 Meu objetivo a curto prazo, é me especializar em desenvolvimento backend e arquiteturas robustas, e mais a longo prazo, desenvolver sistemas completos como full-stack.
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopcarvalho21&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopcarvalho21&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
 
 ---
 
 ## 📫 Como me encontrar:
 
-- LinkedIn: [Meu Perfil](https://linkedin.com/in/seuperfil)
-- GitHub: [Meu Repositório](https://github.com/seuusuario)
-- Email: [email@email.com](mailto:email@email.com)
+- LinkedIn: [Meu Perfil](https://linkedin.com/in/joaopcarvalho21)
+- GitHub: [Meu Repositório](https://github.com/joaopcarvalho21)
+- Email: [joaopcarvalho21@gmail.com](mailto:joaopcarvalho21@gmail.com)
+- Telefone: [+55 (11) 98422-7737](tel:+5511984227737)
