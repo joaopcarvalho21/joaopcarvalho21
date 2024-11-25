@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/joaopcarvalho21">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://linkedin.com/in/joaopcarvalho21">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
