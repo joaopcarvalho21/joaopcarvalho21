@@ -28,18 +28,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=joaopcarvalho21&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=joaopcarvalho21&layout=compact&theme=radical&langs_count=6" />
-</p>
-
----
-
 ## 📚 Sobre Mim
 
 - 🌱 Atualmente focado em aprimorar minhas habilidades em **Java**, **Spring Boot**, **Banco de Dados** e **Arquitetura de Software**.
