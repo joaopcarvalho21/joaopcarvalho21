@@ -34,17 +34,6 @@
 - 💼 Sempre em busca de novos desafios e projetos interessantes, que possam de alguma forma facilitar a vida de alguém.
 - 🎯 Meu objetivo a curto prazo, é me especializar em desenvolvimento backend e arquiteturas robustas, e mais a longo prazo, desenvolver sistemas completos como full-stack.
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopcarvalho21&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopcarvalho21&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-</p>
 
 ---
 
