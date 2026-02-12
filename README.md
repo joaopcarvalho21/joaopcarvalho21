@@ -30,7 +30,7 @@
 
 ## 📚 Sobre Mim
 
-- 🌱 Atualmente focado em aprimorar minhas habilidades em **Java**, **Spring Boot**, **Banco de Dados** e **Arquitetura de Software**.
+- 🌱 Atualmente focado em aprimorar minhas habilidades em **Java**, **Spring Boot**, **Banco de Dados** e **Desenvolvimento de APIs REST**.
 - 💼 Interesse em desenvolvimento backend e sistemas que resolvam problemas reais de negócio.
 - 🎯 Objetivo de curto prazo: conquistar uma vaga como **estagiário ou desenvolvedor júnior backend**.
 - 🚀 Objetivo de longo prazo: desenvolver sistemas robustos e escaláveis, atuando como **full-stack** ou **backend especializado**.
